@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @RiCharde16
-- 👀 I’m interested in learning more, and join in the programing area...
-- 🌱 I’m currently learning phyton, hTML, CSS, C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-RiCharde16/RiCharde16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Bem-Vindo ao meu perfil
+- 👋 ola sou o @RiCharde16;
+- 👀 Estou interessado na area de programação front e back-end;
+- 📫 Estou aprendendo phyton, hTML, CSS, C#;
+<div align="center">
+  <a href="https://github.com/RiCharde16">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiCharde16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiCharde16&layout=compact&langs_count=7&theme=dracula"/>
+</div>
