@@ -2,7 +2,7 @@
 - 👋 ola sou o @RiCharde16;
 - 👀 Estou interessado na area de programação front e back-end;
 - 📫 Estou aprendendo phyton, hTML, CSS, C#;
-&
+
 <div>
   <a href="https://github.com/RiCharde16">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiCharde16&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
