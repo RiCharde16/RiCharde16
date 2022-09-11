@@ -1,7 +1,7 @@
 ### Bem-Vindo ao meu perfil
 - 👋 ola sou o @RiCharde16;
 - 👀 Estou interessado na area de programação front e back-end;
-- 📫 Estou aprendendo phyton, hTML, CSS, C#;
+- 📫 Estou aprendendo phyton, hTML, CSS, C#, PHP é JavaScript;
 
 <div>
   <a href="https://github.com/RiCharde16">
