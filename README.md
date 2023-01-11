@@ -7,7 +7,7 @@ não desisto dos meus objetivos.
 - 👀 Estou interessado na area de programação front e back-end
 - ✔️ `HTML` `CSS` `Javascript` `PHP` `MySQL`
 - 💻 Aprendendo: `Java` `Angular`
-### "A vitoria não é o resultado e sim a consequencia das suas ações"
+### "A vitoria não e o resultado, é sim a consequencia das suas ações"
 
 <div>
   <a href="https://github.com/RiCharde16">
