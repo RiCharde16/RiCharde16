@@ -11,8 +11,7 @@ não desisto dos meus objetivos.
 
 <div>
   <a href="https://github.com/RiCharde16">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RiCharde16&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiCharde16&layout=compact&langs_count=7&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RiCharde16&show_icons=true&bg_color=00000000" />
 </div>
 <div display="flex" alignitems="center">
   <img align="center" alt="Richard-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
