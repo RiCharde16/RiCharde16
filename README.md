@@ -11,7 +11,7 @@ não desisto dos meus objetivos.
 
 <div>
   <a href="https://github.com/RiCharde16">
-  <img src="https://media.giphy.com/media/UcK7JalnjCz0k/giphy.gif" />
+  <img src="https://media.tenor.com/2MbU9-633q8AAAAC/jim-carrey-typing.gif" />
 </div>
 <div display="flex" alignitems="center">
   <img align="center" alt="Richard-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
