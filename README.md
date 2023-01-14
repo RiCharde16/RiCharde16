@@ -10,7 +10,6 @@ não desisto dos meus objetivos.
 ### "A vitoria não e o resultado, é sim a consequencia das suas ações"
 
 <div>
-  <a href="https://github.com/RiCharde16">
   <img src="https://media.tenor.com/2MbU9-633q8AAAAC/jim-carrey-typing.gif" />
 </div>
 <div display="flex" alignitems="center">
