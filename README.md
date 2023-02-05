@@ -4,7 +4,7 @@
 em pratica oque eu aprendo, sou uma pessoa focada, paciente é persistente, por isso
 não desisto dos meus objetivos.
 
-- 👀 Estou interessado na area de programação front e back-end
+- 👀 Estou interessado na area de programação Front End
 - ✔️ `HTML` `CSS` `Javascript` `PHP` `MySQL`
 - 💻 Aprendendo: `Java` `Angular`
 ### "A vitoria não e o resultado, é sim a consequencia das suas ações"
