@@ -1,6 +1,6 @@
 # 🖱️ Bem-Vindo ao meu perfil
 - 👋 ola sou o Richard
-- Estou sempre em busca de aprender coisas novas, sempre colocanado
+- Um pouco sobre mim, Estou sempre em busca de aprender coisas novas, sempre colocanado
 em pratica oque eu aprendo, sou uma pessoa focada, paciente é persistente, por isso
 não desisto dos meus objetivos.
 
