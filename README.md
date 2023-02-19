@@ -1,14 +1,15 @@
 # 🖱️ Bem-Vindo ao meu perfil
-- 👋 ola sou o Richard
-- Um pouco sobre mim, Estou sempre em busca de aprender coisas novas, sempre colocanado
-em pratica oque eu aprendo, sou uma pessoa focada, paciente é persistente, por isso
-não desisto dos meus objetivos.
+- 👋 Me Chamo Richard Silva Costa
+- Um pouco sobre mim: Estou sempre em busca de aprender coisas novas, sempre colocanado
+em pratica oque eu aprendo sou focado, paciente é persistente por isso sempre estou disposto
+a tentar é não desistir, me interessei pela area da programação .
 
 - 👀 Estou interessado na area de programação Front End
-- ✔️ `HTML` `CSS` `Javascript` `PHP` `MySQL`
-- 💻 Aprendendo: `Java` `Angular`
+- Tecnologias que Conheço: `Javascript` `PHP` `MySQL` `Typescript`
+`Angular` `Java` `SpringFramework` `API REST`
 ### "A vitoria não e o resultado, é sim a consequencia das suas ações"
-
+<a href="https://www.linkedin.com/in/richardsilva-front/">![LinkedIn](https://img.shields.io/badge/LinkedIn-3b49df?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
+<a href="https://github.com/RiCharde16/RiCharde16/edit/main/README.md">![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 <div>
   <img src="https://media.tenor.com/2MbU9-633q8AAAAC/jim-carrey-typing.gif" />
 </div>
@@ -21,3 +22,4 @@ não desisto dos meus objetivos.
   <img align="center" alt="Richard-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   
 </div>
+
