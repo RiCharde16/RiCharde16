@@ -9,7 +9,7 @@ a tentar é não desistir, me interessei pela area da programação .
 `Angular` `Java` `SpringFramework` `API REST`
 ### "A vitoria não e o resultado, é sim a consequencia das suas ações"
 <a href="https://www.linkedin.com/in/richardsilva-front/">![LinkedIn](https://img.shields.io/badge/LinkedIn-3b49df?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
-<a href="https://github.com/RiCharde16/RiCharde16/edit/main/README.md">![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
+<a href="https://github.com/RiCharde16/RiCharde16">![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=white)</a>
 <div>
   <img src="https://media.tenor.com/2MbU9-633q8AAAAC/jim-carrey-typing.gif" />
 </div>
