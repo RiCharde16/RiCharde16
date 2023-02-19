@@ -8,7 +8,6 @@ a tentar é não desistir, me interessei pela area da programação .
 - Tecnologias que Conheço: `Javascript` `PHP` `MySQL` `Typescript`
 `Angular` `Java` `SpringFramework` `API REST`
 
-### ""
 <br>
 
 <a href="https://www.linkedin.com/in/richardsilva-front/">![LinkedIn](https://img.shields.io/badge/LinkedIn-3b49df?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
