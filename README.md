@@ -22,5 +22,6 @@ a tentar é não desistir, me interessei pela area da programação .
 
 <div style="width: 100%">
   <img src="https://media.tenor.com/2MbU9-633q8AAAAC/jim-carrey-typing.gif" />
+  <h3>⌨️ Let's keep Coding</h3>
 </div>
 
