@@ -20,8 +20,8 @@ a tentar é não desistir, me interessei pela area da programação .
   
 </div>
 
-<div>
-  <img src="https://media.tenor.com/2MbU9-633q8AAAAC/jim-carrey-typing.gif"/>
+<div style="text-align: center">
+  <img src="https://media.tenor.com/PqJ7yMX9GFoAAAAC/bruce-almighty-comedy.gif" width="100%"/>
   <h3>⌨️ Let's keep Coding</h3>
 </div>
 
