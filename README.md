@@ -6,7 +6,7 @@ a tentar é não desistir, me interessei pela area da programação .
 
 - 👀 Estou interessado na area de programação **Front End**
 - 🛠️ Tecnologias que Conheço: `Javascript` `PHP` `MySQL` `Typescript`
-`Angular` `Java` `SpringFramework` `API REST`
+`Angular` `Java` `SpringFramework` `API REST` `Python`
 
 <br>
 
