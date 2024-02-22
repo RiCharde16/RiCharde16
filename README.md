@@ -5,8 +5,8 @@ em pratica oque eu aprendo sou focado, paciente é persistente por isso sempre e
 a tentar é não desistir, me interessei pela area da programação .
 
 - 👀 Estou interessado na area de programação **Front End**
-- 🛠️ Tecnologias que Conheço: `Javascript` `PHP` `MySQL` `Typescript`
-`Angular` `Java` `SpringFramework` `API REST` `Python`
+- 🛠️ Tecnologias que Conheço: `Javascript` `MySQL` `Typescript`
+`React` `Java` `Python`
 
 <br>
 
